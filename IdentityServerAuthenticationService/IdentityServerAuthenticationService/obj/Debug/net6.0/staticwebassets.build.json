@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SZqTYnbsTwhBchXKeSKK1+DGLr+46Zf+d53RsDvHWIg=",
+  "Source": "IdentityServerAuthenticationService",
+  "BasePath": "_content/IdentityServerAuthenticationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
